@@ -1,15 +1,13 @@
 # Tag, You're Git!
-<small>2024-11-21</small>
+<small>2025-03-28</small>
 
-Welcome to PED's new github collaboration practice project! This is essentially a fun™ exercise designed to help us get more familiar with the collaborative aspects of GitHub (i.e. cloning repositories, making changes, and opening pull requests).
-
-If you can read this (i.e. everyone listed [here](https://github.com/orgs/PopulationEcologyDivision/teams/everyone)), you've been granted permissions on this repo to create and delete files, merge pull requests, and push changes - essentially all of the same rights you'd have to your own repository. (If you notice someone in PED is missing from that list, please let @MMMcMahon know so he can add them)
+Welcome to a github collaboration practice project! This is essentially a fun™ exercise designed to help us get more familiar with the collaborative aspects of GitHub (i.e. cloning repositories, making changes, and opening pull requests).
 
 Many of us are comfortable cloning repositories, and making modifications, but often we keep those changes to ourselves.  Few of us get into branching and contributing to other people's code.  Pull requests help you propose changes to the team. They provide a platform for discussion, review, and eventually, integration of changes into the main project. This collaborative workflow is essential in a team setting as it ensures that projects can benefit from the collective expertise of the team.
 
 Let's make sure that we're *choosing* to work on our own, and we're not limited by our ability to work with the collaborative aspects of git.  
 
- (This repository is a private space within the [PopulationEcologyDivision](https://github.com/PopulationEcologyDivision/) github account, but I still added a [Contributor Code of Conduct](CODE_OF_CONDUCT.md) to remind us that to behave.) 
+ This repository is a public space within the [Maritimes](https://github.com/Maritimes/) github account, and I've added a [Contributor Code of Conduct](CODE_OF_CONDUCT.md) to remind everyone to behave.) 
 
 **Nothing of importance exists here, and no assessments are going to fail if we mess anything up while we're learning.**
 
@@ -17,7 +15,7 @@ Let's make sure that we're *choosing* to work on our own, and we're not limited 
 
 Although you can work with this via numerous tools, I'll assume you're working with RStudio for any instructions below.  If you're using some other method, you probably don't need to read any instructions anyways.  :)
 
-Open RStudio and go to File > New Project > Version Control > Git. In the "Repository URL" field, paste the URL of the GitHub repository (https://github.com/PopulationEcologyDivision/Tag_Youre_Git.git). This will clone the repository to your local machine.
+Open RStudio and go to File > New Project > Version Control > Git. In the "Repository URL" field, paste the URL of the GitHub repository (https://github.com/Maritimes/Tag_Youre_Git.git). This will clone the repository to your local machine.
 
 ## What To Do
 Once you've cloned the repo, you can try the following:
@@ -25,7 +23,7 @@ Once you've cloned the repo, you can try the following:
 1. Create a new branch.
 2. Add/change file(s) in the repository. 
 3. Commit your changes and push your branch to GitHub.
-4. Open a pull request and in the description, tag a team member to review your changes (using "@username").
+4. Open a pull request and in the description, tag someone to review your changes (using "@username").
 5. The tagged team member will (hopefully) review your changes, merge the pull request, and then repeat the process, tagging the next person in line.
 
 ## Opening a Pull Request
@@ -67,7 +65,7 @@ Remember to always pull the latest changes from GitHub before starting work on a
 4. If everything looks good, click "Merge pull request" then "Confirm merge".
 5. Now it's your turn to repeat the process starting from step 1 in the "When You Are Tagged" section.
 
-Remember, the goal is to practice and learn. Don't be afraid to ask for help if you're unsure about something. You could use Teams, but rather hassling anyone in particular, I think we have a space we can use here, at the [Gitgub Discussion Board for this repo](https://github.com/PopulationEcologyDivision/Tag_Youre_Git/discussions)
+Remember, the goal is to practice and learn. Don't be afraid to ask for help if you're unsure about something. You could use Teams, but rather hassling anyone in particular, I think we have a space we can use here, at the [Gitgub Discussion Board for this repo](https://github.com/Maritimes/Tag_Youre_Git/discussions)
 
 ## Participating Without Being Tagged
 You can jump in and contribute at any time, even if you haven't been tagged. By tagging someone in your pull request, you're effectively re-starting the game and re-engaging your team in the project.
