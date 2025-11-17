@@ -1,11 +1,11 @@
 # Tag, You're Git!
-<small>2025-03-28</small>
+<small>2025-11-17</small>
 
 Welcome to a github collaboration practice project! This is essentially a fun™ exercise designed to help us get more familiar with the collaborative aspects of GitHub (i.e. forking repositories, making changes, and opening pull requests).
 
 Many of us are comfortable cloning repositories and making modifications, but often we keep those changes to ourselves. Few of us get into branching and contributing to other people's code. Pull requests help you propose changes to the team. They provide a platform for discussion, review, and eventually, integration of changes into the main project. This collaborative workflow is essential in a team setting as it ensures that projects can benefit from the collective expertise of the team.
 
-People can find themselves working on a team that uses git/github, and the only repository they use is core to the work of their unit - it is not an appropriate place to "move fast and break things".  That's where this repository comes in - **nothing of importance exists in this repo, and no assessments or frameworks are going to fail if we mess anything up while we're learning**.  Please feel free to add/remove/edit any files you want (but note that I've added a [Contributor Code of Conduct](CODE_OF_CONDUCT.md) to remind everyone to behave).
+People can find themselves working on a team that uses git/github, and the only repository they use is core to the work of their unit - it is not an appropriate place to "move fast and break things".  That's where this repository comes in - **nothing important exists in this repo, and no core work is going to fail as a result of anything we do in here**.  Please feel free to add/remove/edit any files you want (but note that I've added a [Contributor Code of Conduct](CODE_OF_CONDUCT.md) to remind everyone to behave).
 
 Let's make sure that we're *choosing* to work on our own, and we're not limited by our ability to work with the collaborative aspects of git.
 
