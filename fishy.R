@@ -102,24 +102,24 @@ p <- ggplot() +
     geom_polygon(
         data = fish_data[fish_data$part == "body", ],
         aes(x = x, y = y, group = frame),
-        fill = "orange", color = "darkorange", size = 1
+        fill = "yellow", color = "darkorange", size = 1
     ) +
     # Tail
     geom_polygon(
         data = fish_data[fish_data$part == "tail", ],
         aes(x = x, y = y, group = frame),
-        fill = "orange", color = "darkorange", size = 1
+        fill = "yellow", color = "darkorange", size = 1
     ) +
     # Fins
     geom_polygon(
         data = fish_data[fish_data$part == "fin_top", ],
         aes(x = x, y = y, group = frame),
-        fill = "orange", color = "darkorange", size = 1
+        fill = "yellow", color = "darkorange", size = 1
     ) +
     geom_polygon(
         data = fish_data[fish_data$part == "fin_bottom", ],
         aes(x = x, y = y, group = frame),
-        fill = "orange", color = "darkorange", size = 1
+        fill = "yellow", color = "darkorange", size = 1
     ) +
     # Eye
     geom_point(
